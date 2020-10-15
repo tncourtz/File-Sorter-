@@ -1,2 +1,3 @@
 # File-Sorter-
-Renaming and Sorting relational files
+Automatic Renaming and Sorting  of relational files
+Code written in Google Colab
